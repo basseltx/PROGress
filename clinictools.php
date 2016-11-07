@@ -28,7 +28,7 @@ echo "
 </tr>
 </table >
 <h2>HTPN Clinical Tools Companion Kit</h2>
-This site is under construction.  It will change in appearance and function over the next few weeks.<br><hr>
+Check here for updates on features and functions<br><hr>
 <h4>Click on an item to display and print</h4>
 <table width='1000' border='1'>
 <th>Clinical questionnaires</th>
@@ -102,7 +102,7 @@ This site is under construction.  It will change in appearance and function over
  <a target='main_iframe'S href='./portal/form-proxy-adult-espanol.pdf'><b>Portal Adult Proxy Form (Spanish)</b></a>
 <hr>
 <H4>SCROLL DOWN! There's more below.</h4>
-PDF forms will display in this window.  When done, click the button to reset the Compliance form list.
+PDF forms will display in this window.  When done, click the button to reset the Compliance department form list.
 <button style='position:relative;left:200px;height:30px;width:150px' onclick='location.reload()'>Reset the window</button><br>
 <iframe name='main_iframe' src='./complianceforms.php' height='550' width='1000'></iframe>
 
